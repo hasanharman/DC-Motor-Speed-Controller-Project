@@ -8,6 +8,11 @@ If you have problems/suggestions you can ask/conribute us.
 
 Enjoy :)
 
+Project2 Group3
+Candost Yıldırım
+Hasan H. Harman
+Serkan Demirer
+
 ![This is how the circuit looks when it finished](https://github.com/hasanharman/DC-Motor-Speed-Controller-Project/blob/master/Project.png)
 
 ![This is how the circuit looks when it finished](https://github.com/hasanharman/DC-Motor-Speed-Controller-Project/blob/master/project.gif)
