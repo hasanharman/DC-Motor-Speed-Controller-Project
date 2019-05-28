@@ -1,7 +1,9 @@
 # DC-Motor-Speed-Controller-Project
 This project was conducted within IZTECH EE316 course.
 
-Final project report contains detailed information about the project and schemetics.
+The aim this project is driving DC motor between 1200-3000 RPM and monitoring the RPM at the same time, with using only electronic components.
+
+Final project report contains detailed information about the projecr, schemetics and component list.
 If you have problems/suggestions you can ask/conribute us.
 
 Enjoy :)
