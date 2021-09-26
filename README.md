@@ -11,7 +11,8 @@ Project2 Group3<br/>
 
 Candost Yıldırım<br/>
 Hasan H. Harman<br/>
-Serkan Demirer
+Serkan Demirer<br/>
+Atakan Aygün
 
 ![This is how the circuit looks when it finished](https://github.com/hasanharman/DC-Motor-Speed-Controller-Project/blob/master/Project.png)
 
